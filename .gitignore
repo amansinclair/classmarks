@@ -1,0 +1,6 @@
+/build
+/dist
+/resources
+/makrsapp/resources
+*.ico
+__pycache__*

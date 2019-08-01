@@ -1,0 +1,2 @@
+pyinstaller --onedir --name marks --noconsole app.py -i icon.ico
+

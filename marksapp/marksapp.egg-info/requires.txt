@@ -1,0 +1,7 @@
+pyQt5
+cryptography
+argon2-cffi
+pandas
+numpy
+anytree
+classmarks
