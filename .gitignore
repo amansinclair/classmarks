@@ -2,7 +2,9 @@
 /marksapp/dist/
 /resources/
 /marksapp/resources/
+*.egg
 *.ico
 *.png
 *.svg
+*.directory
 __pycache__*
