@@ -1,3 +1,0 @@
-[console_scripts]
-marksapp = marksapp:__main__
-
