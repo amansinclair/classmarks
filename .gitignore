@@ -1,7 +1,7 @@
-/build
-/dist
+/marksapp/build
+/marksapp/dist
 /resources
-/makrsapp/resources
+/marksapp/resources
 *.ico
 *.png
 *.svg
